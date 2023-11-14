@@ -37,12 +37,10 @@ print(y_predicted)
 plt.scatter(x,y)
 plt.plot(x,y_predicted,color='cyan')
 plt.show()
-
-
 ```
 
 ## Output:
-![ml ex 1](https://github.com/vishwa2005vasu/Find-the-best-fit-line-using-Least-Squares-Method/assets/135954202/a484ec4d-5fb6-4431-aef5-29a25aa8f01e)
+![ml ex 1](https://github.com/magesh534/Find-the-best-fit-line-using-Least-Squares-Method/assets/135577936/831bf14d-2eb3-41e0-be4a-cf7ad736599f)
 
 
 
